@@ -1,14 +1,14 @@
-1) Help Sheeba out 									    10 marks
+// 1) Help Sheeba out 									    10 marks
 
-Sheeba was asked by a Recruiter to write down 100 numbers (1-100) randomly 
-but making sure that no number is repeated twice. At the end, the Recruiter found 
-out that Sheeba had done her work perfectly, but committed just one mistake of 
-repeating a number twice. Recruiter asked Sheeba that she recruiter her only 
-under one condition! If Sheeba is able to find out the only number which she is 
-repeated in an optimised manner.
+// Sheeba was asked by a Recruiter to write down 100 numbers (1-100) randomly 
+// but making sure that no number is repeated twice. At the end, the Recruiter found 
+// out that Sheeba had done her work perfectly, but committed just one mistake of 
+// repeating a number twice. Recruiter asked Sheeba that she recruiter her only 
+// under one condition! If Sheeba is able to find out the only number which she is 
+// repeated in an optimised manner.
 
-Can you write a pseudocode, which can help Sheeba to find out the number which 
-got repeated twice?
+// Can you write a pseudocode, which can help Sheeba to find out the number which 
+// got repeated twice?
 
 // in c++
 #include <iostream>
@@ -54,11 +54,11 @@ int main()
 
 
 
-3) Closest to zero 									    20 Marks
+// 3) Closest to zero 									    20 Marks
 
-This problem is also called minimum absolute sum pair. You are given an array of integers, containing both +ve and -ve numbers. You need to find the two elements such that their sum is closest to zero. eg. Array [15, 5, -20, 30, -45] Output should be 15, -20.
+// This problem is also called minimum absolute sum pair. You are given an array of integers, containing both +ve and -ve numbers. You need to find the two elements such that their sum is closest to zero. eg. Array [15, 5, -20, 30, -45] Output should be 15, -20.
 
-Note: We want the sum to be closest to zero not minimum. The minimum in the above example would be (-20, -45), but that is incorrect.
+// Note: We want the sum to be closest to zero not minimum. The minimum in the above example would be (-20, -45), but that is incorrect.
 
 //in c++
 
